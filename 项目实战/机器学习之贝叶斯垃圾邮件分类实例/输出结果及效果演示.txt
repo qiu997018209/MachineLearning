@@ -1,0 +1,2 @@
+['love', 'my', 'dalmation'] classified as:  0
+['stupid', 'dog'] classified as:  1
