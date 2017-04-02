@@ -11,4 +11,4 @@ Kaggle上有这样一个比赛：城市自行车共享系统使用状况。
 
 3.本项目功能:数据清理，特征提取，标准化连续值特征，离散性数据实现one-hot编码
 
-4.本项目博客地址:http://blog.csdn.net/qiujiahao123/article/details/68647065
+4.本项目博客地址:http://blog.csdn.net/qiujiahao123/article/details/68927616
