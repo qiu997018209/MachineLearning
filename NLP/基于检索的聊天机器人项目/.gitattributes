@@ -1,3 +1,0 @@
-data/test.csv filter=lfs diff=lfs merge=lfs -text
-data/train.csv filter=lfs diff=lfs merge=lfs -text
-data/valid.csv filter=lfs diff=lfs merge=lfs -text

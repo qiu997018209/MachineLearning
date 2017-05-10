@@ -14,3 +14,23 @@ https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM
 	   注意点:图片中LSTM有2组，实际只需要一组即可，因为都是文本信息的抽取，此处2组是为了方便理解
 
  6.环境:Tensorflow
+
+ 7.#### Training
+
+	```
+	python udc_train.py
+	```
+
+
+	#### Evaluation
+
+	```
+	python udc_test.py --model_dir=...
+	```
+
+
+	#### Evaluation
+
+	```
+	python udc_predict.py --model_dir=...
+	```
